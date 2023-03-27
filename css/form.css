@@ -9,11 +9,16 @@
     padding: 55px 0;
     transition: 1s;
 }
+.form-login{
+    background-color: #a49c94;
+}
+
 
 .form-register{
     transform: translateX(-100%);
     z-index: -1;
     opacity: 0;
+    background-color: #a49c94;
 }
 
 .login-container.move .form-login{
