@@ -20,3 +20,10 @@
         display: none
     }
 }
+
+
+
+
+.login-container-home.move .overlay-container{
+    transform: translateX(0%);
+}
